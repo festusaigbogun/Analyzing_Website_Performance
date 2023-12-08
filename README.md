@@ -32,4 +32,4 @@ This endeavor represents a deep dive into deciphering the dynamics of our online
 
 You can interact with the dashboard on this link [here](https://lookerstudio.google.com/s/lekc9aCaCZw). 
 
-[]!(https://github.com/festusaigbogun/Analyzing_Website_Performance/blob/main/Image/Screenshot_20231201_160917_cn.wps.moffice_eng~2.jpg) 
+! [](https://github.com/festusaigbogun/Analyzing_Website_Performance/blob/main/Image/Screenshot_20231201_160917_cn.wps.moffice_eng~2.jpg) 
