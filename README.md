@@ -15,7 +15,7 @@ This endeavor represents a deep dive into deciphering the dynamics of our online
 ---
 
 
-## Business Objectives
+## BUSINESS OBJECTIVES 
 
 - Analyze vital metrics including Conversion Count, Total Users, Geographic Distribution, 30-day Active Users, Engagement Rate, and Website Views, comparing these against last year's performance to gauge growth or decline in percentages.
 
@@ -28,4 +28,6 @@ This endeavor represents a deep dive into deciphering the dynamics of our online
 - Investigate the conversion trends over time for 30-day active users to understand their impact on website performance.
 
 
-## Dashboard 
+## DASHBOARD
+
+You can interact with the dashboard on this link [here](https://lookerstudio.google.com/s/lekc9aCaCZw). 
